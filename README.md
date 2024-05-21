@@ -11,7 +11,7 @@ This is an anonymous repo for paper "[SocraticLM: Exploring Socratic Personalize
 
 ### SocraTeach Dataset
 ```shell
-test_dialogue.json: testing dialogues for evaluating \emph{Overall Quality}.
+test_dialogue.json: testing dialogues \for evaluating Overall Quality.
 ```
 
 ### Running
