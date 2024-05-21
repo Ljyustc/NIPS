@@ -1,6 +1,6 @@
 ### SocraticLM: Exploring Socratic Personalized Teaching with Large Language Models
 
-This is an anonymous repo for paper "[SocraticLM: Exploring Socratic Personalized Teaching with Large Language Models]".
+This is an anonymous repo for paper "SocraticLM: Exploring Socratic Personalized Teaching with Large Language Models".
 
 ### Environment
 * OS: CentOS Linux release 7.7.1908
@@ -11,7 +11,7 @@ This is an anonymous repo for paper "[SocraticLM: Exploring Socratic Personalize
 
 ### SocraTeach Dataset
 ```shell
-test_dialogue.json: testing dialogues \for evaluating Overall Quality.
+test_dialogue.json: testing dialogues for evaluating Overall Quality.
 ```
 
 ### Running
